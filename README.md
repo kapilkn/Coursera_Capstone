@@ -13,7 +13,7 @@ With the given set of objectives, the battle of neighborhoods has been implement
 4.	To learn how to use the Beautifulsoup Python package to scrape websites and parse HTML code.
 5.	To apply the skills acquired so far in this course to segment and cluster neighborhoods in the city of Toronto.
 
-Aiming to above objectives the data has been collected from Wikipedia page Wikipedia page, ```https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M . ```
+Aiming to above objectives the data has been collected from following Wikipedia page, ```https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M . ```
 
 __For this purpose knowledge of Python, Data Science, Visualization, Machine Learning Algorithms, Segmentation, HTML parsing, Repository site GitHub, and Foursquare is required. How do I utilize the complete program to build the “The Battle of Neighborhoods” project have been shown in the background section.__
 
